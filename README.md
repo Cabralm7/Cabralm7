@@ -1,4 +1,4 @@
-### Olá a todos, me chamo Murillo Cabral 🖐️, entusiasta da tecnologia!!!
+### Olá a todos, me chamo Murillo Cabral 🖐️.
 ##
 - 🔭 Estou atualmente trabalhando na área de Comex
 - 🌱 Estudando Quality Assurance / Testes Automatizados / Front-End
