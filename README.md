@@ -1,7 +1,7 @@
 ### Olá a todos, me chamo Murillo Cabral 🖐️.
 ##
 - 🔭 Estou atualmente trabalhando na área de Comex
-- 🌱 Estudando Quality Assurance / Testes Automatizados / Front-End
+- 🌱 Estudando Quality Assurance / Testes Automatizados / Front-End / UX UI
 - 🤔 Procurando a primeira oportunidade para ingressar na área, disposto em aprender cada dia mais. 
 - 😄 Pronouns: He/Him
 
