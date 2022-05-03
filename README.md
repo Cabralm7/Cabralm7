@@ -2,7 +2,7 @@
 ##
 - 🔭 Estou atualmente trabalhando como QA.
 - 🌱 Estudando Quality Assurance / Testes Automatizados / Cypress
-- Curiosidades que futuramente irei estudar: Clouds Fundamentals, Administration and Solutions Architect, Docker, AWS, GCP
+- 🚀 Curiosidades que futuramente irei estudar: Clouds Fundamentals, Administration and Solutions Architect, Docker, AWS, GCP
 - 😄 Pronouns: He/Him
 
 <div align="center">
