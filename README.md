@@ -1,7 +1,7 @@
 ### Olá a todos, me chamo Murillo Cabral 🖐️.
 ##
-- 🔭 Estou atualmente trabalhando como SQA.
-- 🌱 Estudando Quality Assurance / Testes Automatizados / Testes de API / Robot Framework
+- 🔭 Estou atualmente trabalhando como Techlead e QA.
+- 🌱 Estudando Quality Assurance / Testes Automatizados / Testes de API / Robot Framework / React Native
 - 🚀 Curiosidades que futuramente irei estudar: Clouds Fundamentals, Administration and Solutions Architect, Docker, AWS, GCP
 - 😄 Pronouns: He/Him
 
